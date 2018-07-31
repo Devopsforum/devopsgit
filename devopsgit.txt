@@ -1,8 +1,4 @@
 hi this first file insertion
-<<<<<<< HEAD
 
 hi this is to edit
 
-=======
-hiihiihi
->>>>>>> parent of 7abf4c4... updated
